@@ -7,11 +7,11 @@
 I created an acount in github website and published in my first lab 1 in web development lll.
 
 
-I installed in my computer
+**###I installed in my computer**
 ***
-+ nodejs
++ __nodejs__
 ***
-+ npm
++ __npm__
 ***
-+ gulp
++ __gulp__
 ***
