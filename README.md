@@ -1,8 +1,9 @@
 # DT173G 
 
-## This is my first laboration in my webbdesign program 2019.
+## This is my first lab in my web development lll 2019.
 
 
+## Github and version control
 
 I created an acount in github website and published in my first lab 1 in web development lll.
 
