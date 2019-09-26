@@ -7,7 +7,7 @@
 I created an acount in github website and published in my first lab 1 in web development lll.
 
 
-**###I installed in my computer**
+### **I installed in my computer**
 ***
 + __nodejs__
 ***
